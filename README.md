@@ -25,11 +25,7 @@ git clone https://github.com/yehya403/bank-account-project.git
 cd bank-account-project
 ```
 
-3. Run the project:
-
-## Requirements
-
-- Kotlin (1.4 or higher)
+3. Run the project
 
 ## Usage
 
